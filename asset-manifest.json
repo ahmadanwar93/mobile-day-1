@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mobile-day-1/static/css/main.c4c5038f.chunk.css",
+    "main.js": "/mobile-day-1/static/js/main.86cf4162.chunk.js",
+    "main.js.map": "/mobile-day-1/static/js/main.86cf4162.chunk.js.map",
+    "runtime-main.js": "/mobile-day-1/static/js/runtime-main.e20b4d31.js",
+    "runtime-main.js.map": "/mobile-day-1/static/js/runtime-main.e20b4d31.js.map",
+    "static/js/2.d33de6af.chunk.js": "/mobile-day-1/static/js/2.d33de6af.chunk.js",
+    "static/js/2.d33de6af.chunk.js.map": "/mobile-day-1/static/js/2.d33de6af.chunk.js.map",
+    "static/js/3.97893771.chunk.js": "/mobile-day-1/static/js/3.97893771.chunk.js",
+    "static/js/3.97893771.chunk.js.map": "/mobile-day-1/static/js/3.97893771.chunk.js.map",
+    "index.html": "/mobile-day-1/index.html",
+    "static/css/main.c4c5038f.chunk.css.map": "/mobile-day-1/static/css/main.c4c5038f.chunk.css.map",
+    "static/js/2.d33de6af.chunk.js.LICENSE.txt": "/mobile-day-1/static/js/2.d33de6af.chunk.js.LICENSE.txt",
+    "static/media/final_phone.5e9ebc3e.png": "/mobile-day-1/static/media/final_phone.5e9ebc3e.png",
+    "static/media/logo.6ce24c58.svg": "/mobile-day-1/static/media/logo.6ce24c58.svg",
+    "static/media/pexels-cottonbro-5081399.fb919d7c.jpg": "/mobile-day-1/static/media/pexels-cottonbro-5081399.fb919d7c.jpg",
+    "static/media/pexels-fox-3829230.4f5f0e56.jpg": "/mobile-day-1/static/media/pexels-fox-3829230.4f5f0e56.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e20b4d31.js",
+    "static/js/2.d33de6af.chunk.js",
+    "static/css/main.c4c5038f.chunk.css",
+    "static/js/main.86cf4162.chunk.js"
+  ]
+}
